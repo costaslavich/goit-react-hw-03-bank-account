@@ -1,0 +1,27 @@
+.petpagelist {
+  width: 1120px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin: 0 15px;
+  list-style-type: none;
+  padding: 10px 10px;
+}
+
+.petitem {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  position: relative;
+  border-radius: 2px;
+  margin-bottom: 20px;
+  box-shadow: 5px 0px 10px rgba(19, 11, 11, 0.75);
+}
+
+.petdescr {
+  display: inline-block;
+  text-align: center;
+  color: black;
+  font-size: 22px;
+  font-weight: 400;
+}

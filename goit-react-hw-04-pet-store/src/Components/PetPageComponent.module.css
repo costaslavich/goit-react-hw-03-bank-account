@@ -1,0 +1,24 @@
+.container {
+  margin: 0 auto;
+  width: 1120px;
+  padding: 10px 50px;
+}
+
+.inform {
+  display: flex;
+  align-items: flex-start;
+}
+
+.inform img {
+  display: block;
+  height: auto;
+}
+
+.descr {
+  margin: 0;
+  display: flex;
+  width: 500px;
+  flex-direction: column;
+  margin-left: 30px;
+  font-size: 18px;
+}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["HomePage.module.css"],"names":[],"mappings":"AAAA,sBACE,aAAc,CACd,iBAAkB,CAClB,iBACF","file":"HomePage.59b4046e.chunk.css","sourcesContent":[".home {\r\n  margin: 0 auto;\r\n  text-align: center;\r\n  padding-top: 100px;\r\n}\r\n"]}

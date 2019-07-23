@@ -1,0 +1,11 @@
+.BookListItem {
+  padding: 10px 10px;
+  background-color: #d1ebd2;
+  border: 1px solid #000000;
+}
+
+.description_book {
+  margin: 0 5px;
+  line-height: 1.25;
+  font-family: Arial, Helvetica, sans-serif;
+}

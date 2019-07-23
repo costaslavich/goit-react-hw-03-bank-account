@@ -1,0 +1,18 @@
+.BookList {
+  display: flex;
+  margin: 0 auto;
+  padding: 0;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 30px;
+  width: 900px;
+}
+
+.BookList_Item {
+  padding: 0;
+  display: flex;
+  width: calc(33% - 40px);
+  border-radius: 2px;
+  margin: 10px;
+  list-style-type: none;
+}
